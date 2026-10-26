@@ -2,7 +2,7 @@
 
 A compact, portable device that detects approaching movement within a defined range. An ultrasonic sensor watches a distance that you set by calibration, and when something comes closer than that distance, the device raises an alert with an LED and, optionally, a siren. It was inspired by wanting to monitor nearby activity during interactive games. It runs on an Arduino Nano, powered over USB from a battery pack.
 
-**Demo video:docs/motionDemo.mp4** 
+**Demo video:** [Watch the demo](docs/motionDemo.mp4)
 
 ![Motion sensor](docs/motion-sensor.png)
 
