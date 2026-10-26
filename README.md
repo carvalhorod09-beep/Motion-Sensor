@@ -82,7 +82,7 @@ The same status messages are also printed to the Serial Monitor at 9600 baud.
 - Bluetooth module [add model, or delete this line and the Bluetooth mode if your build has none]
 - 3D-printed enclosure (blue PLA) from my own CAD design, with a removable, screw-secured cover
 
-The wiring schematic is in `docs/schematic.jpg`.
+The wiring schematic is in `docs/schematic.png`.
 
 ### Pin map
 
